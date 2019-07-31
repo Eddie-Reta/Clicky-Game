@@ -1,0 +1,67 @@
+[
+    {
+        "id" : 1,
+        "name" : "Naruto",
+        "gif" : "https://data.whicdn.com/images/222771518/original.gif"
+       
+},
+{
+        "id" : 2,
+        "name" : "Kakashi",
+        "gif" : "https://68.media.tumblr.com/e04d1154111184c4e4ba6736ac4bc7d8/tumblr_os95cjt1Ev1sg6ysuo1_500.gif"
+    
+},
+{
+    "id" : 3,
+    "name" : "Sasuke",
+    "gif" : "https://i.pinimg.com/originals/e0/39/28/e039281f23b7687c0aa75c299ebc94fc.gif"
+   
+},
+{
+    "id" : 4,
+    "name" : "Kisame Hoshigaki",
+    "gif" : "https://media1.tenor.com/images/a9b93731fb818a9b4c64fca5c201ebc5/tenor.gif?itemid=11686443"
+   
+},{
+    "id" : 5,
+    "name" : "Minato Namikaze",
+    "gif" : "https://i.makeagif.com/media/11-14-2014/oZNxVG.gif"
+   
+},{
+    "id" : 6,
+    "name" : "Might Guy",
+    "gif" : "https://i.gifer.com/FRN3.gif"
+   
+},{
+    "id" : 7,
+    "name" : "Rock Lee",
+    "gif" : "https://i.gifer.com/embedded/download/2Vfo.gif"
+   
+},{
+    "id" : 8,
+    "name" : "Itachi Uchiha",
+    "gif" : "https://steamuserimages-a.akamaihd.net/ugc/2427880072182252728/2556FAFA4408AFA9EE11D38F922299DB99EBE82A/"
+   
+},{
+    "id" : 9,
+    "name" : "Neji Hyuga",
+    "gif" : "https://comicvine1.cbsistatic.com/uploads/original/11112/111120069/3848402-0763182622-download.php"
+   
+},{
+    "id" : 10,
+    "name" : "Jiraiya",
+    "gif" : "https://media.giphy.com/media/lAv8Ks3ENX1Ju/giphy.gif"
+   
+},{
+    "id" : 11,
+    "name" : "Orochimaru",
+    "gif" : "https://media1.tenor.com/images/73dabfe0810252a0cd2eefd152a2a875/tenor.gif?itemid=7893992"
+   
+},{
+    "id" : 12,
+    "name" : "Pain a.k.a Nagato",
+    "gif" : "https://66.media.tumblr.com/8ebb69af1d7ce94259415f04d5453ad0/tumblr_ne4c217oin1sc0085o6_250.gif"
+   
+}
+
+]
