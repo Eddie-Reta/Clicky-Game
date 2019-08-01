@@ -12,7 +12,6 @@ class App extends Component {
         shinobi,
         score: 0,
         topScore: 0,
-        
         selectedCards: [],
         alert: "Click an Image to begin!"
     };
@@ -24,7 +23,7 @@ class App extends Component {
         this.setState({shinobi: shinobi})
     };
     handleYouWin = () => {
-        if (this.state.selectedCards.length === 2) {
+        if (this.state.selectedCards.length === 12) {
             this.setState({
                 alert: "You win!!! Click Clicky Game to Play Again!!"
             });
